@@ -1,6 +1,8 @@
 # Javascript_Hangman_Practice
 JS Hangman Assignment 
 
+[Working from IronHack's JS hangman lab](https://github.com/ironhack-labs/lab-javascript-hangman)
+
 
 An implementation of the classic 'Hang Man' Game
 A random word is selected from an array of secret words at the start of the game
